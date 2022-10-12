@@ -1,1 +1,2 @@
-Trabalhando com GitHub atraves do DIO
+Hoje eu aprendi que o GitHub pode ajudar baste no desenvolvimento na area de TI para 
+comparilhar conhecimento
